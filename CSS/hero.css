@@ -2,10 +2,13 @@ body{
 	
 	margin: 0;
 	font-family: roboto, arial, sans-serif;
-	background-color: #43A6CE;
 	
-
-
+	
+	background-color: #43A6CE;
+	height: 500px;
+	background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 }
 
 header{
